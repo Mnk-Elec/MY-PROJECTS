@@ -16,13 +16,26 @@ whem I learnt about amplifiers in my class I was really eager to make an Audio a
 It is not very much of a big project however i Taught me something crucial that " Dry soldering" can very much the sound.During my intials I was not able to figure out these problems later I understood how different is actual hardware from simulation.
 
 **videos:**  
-https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/e8e8bfaf-69cd-4bf1-84d0-0d919a9ac882
+
+https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/d90b95ba-1b12-46f1-9381-6aa8b9a306f2
+
+https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/7a1d6559-57d7-4ba9-be2c-992df1ea41fa
 
 ## Project 2: voltage Regulators
 I made these volatage regulator during my work in SUDOYANTRA . The Board Takes in 12v unregulated DC supply and uses the Regulator to convert 
 12 volt unregulated supply to 5v and 3.3V. This was made so that the microcontroller receives the steady supply of fixed voltage level.
 
-**videos:**
+**SCHEMATIC**
+
+![WhatsApp Image 2024-06-15 at 15 52 13_197d3a36](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/435b930f-84c8-4927-898a-84d1895ccd79)
+
+**LAYOUT**
+
+![WhatsApp Image 2024-06-15 at 15 52 13_f61e2949](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/93b18880-516d-403f-9f45-5acf946ff2a0)
+
+**ZERO BOARD**
+
+![WhatsApp Image 2024-06-15 at 15 49 04_b8b7732d](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/a7cefe19-340c-40f2-bfd6-7fa117611405)
 
 ## Project 3: RC CAR
 
@@ -30,7 +43,11 @@ I made these volatage regulator during my work in SUDOYANTRA . The Board Takes i
 just like every other boys in the contry I to loves the car BUT this I built without the help of Arduino and only Analog modules such as transmitter and receiver module, motor driver and battery.
 The mechanism of turning of the car is Quite Interresting During it stops the 2 wheel making a fixed axis and the other 2 wheel moves resulting in turn of car. 
 
-**videos:**
+**IMAGE**
+
+![WhatsApp Image 2024-06-15 at 15 56 57_b0fde33f](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/a726718a-6080-4384-bf8f-7124df701531)
+
+**VIDEOS**
 
 
 ## Project 4: Touch sensor using MOSFET.

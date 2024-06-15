@@ -53,5 +53,6 @@ we made this plotter as an activity to understand the 3d desiging ,stepper motor
 There is a complete documentation on how this device works. basically It employs read switch to get the intial and final time reading and the emf induced in coil is given to arduino arduino serially prints all the values on the serial monitor . Python program uses time readings and serially plotted emf values to Draw the Graph using MATPLOT LIB.
 
 **PCB BOARD Design and Schematics and Results**
+![sch](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/6c9417b9-62c5-400b-9005-b5b30b2e45e3)
 
 **VIDEOS**

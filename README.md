@@ -49,13 +49,16 @@ The mechanism of turning of the car is Quite Interresting During it stops the 2 
 
 **VIDEOS**
 
+https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/1d8c223b-1a6f-4da5-9b97-c3bc4befc824
 
 ## Project 4: Touch sensor using MOSFET.
 
 **Description:**
 This was just a simple experiment I was trying to do with MOSFET as switch and using human body as conductor to connect to earth as Ground.
 
-**videos:**
+**IMAGE:**
+
+![WhatsApp Image 2024-06-15 at 16 01 52_b08860e4](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/862d29e3-4089-4eaa-a743-232a1837e04d)
 
 ## Project 5: CNC PLOTTER.
 

@@ -52,7 +52,25 @@ we made this plotter as an activity to understand the 3d desiging ,stepper motor
 **Description:**
 There is a complete documentation on how this device works. basically It employs read switch to get the intial and final time reading and the emf induced in coil is given to arduino arduino serially prints all the values on the serial monitor . Python program uses time readings and serially plotted emf values to Draw the Graph using MATPLOT LIB.
 
-**PCB BOARD Design and Schematics and Results**
+**PCB BOARD SCHEMATIC**
+
 ![sch](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/6c9417b9-62c5-400b-9005-b5b30b2e45e3)
 
+**PCB BOARD LAYOUT**
+
+![layout](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/28a65a83-eb1e-420a-b8b7-70fce2bc782b)
+
+**PCB BOARD FABRICATED**
+
+![WhatsApp Image 2024-06-15 at 15 36 38_9e5a9933](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/463e3606-8ba9-40ff-b57b-8c7b02c8d6d3)
+
+![WhatsApp Image 2024-06-15 at 15 36 39_9fa25ace](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/e09535b6-e7e2-4754-9078-5243345d5d80)
+
+**RESULT**
+
+![WhatsApp Image 2024-06-15 at 15 33 18_9ecee619](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/c4c27dd0-6249-4a74-bbb5-9171567a453e)
+
 **VIDEOS**
+
+https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/c78f409c-d30b-4e48-8c09-5fce0670ab64
+

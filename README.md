@@ -29,9 +29,6 @@ I made these volatage regulator during my work in SUDOYANTRA . The Board Takes i
 
 ![WhatsApp Image 2024-06-15 at 15 52 13_197d3a36](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/435b930f-84c8-4927-898a-84d1895ccd79)
 
-**LAYOUT**
-
-![WhatsApp Image 2024-06-15 at 15 52 13_f61e2949](https://github.com/Mnk-Elec/MY-PROJECTS/assets/172750795/93b18880-516d-403f-9f45-5acf946ff2a0)
 
 **ZERO BOARD**
 
